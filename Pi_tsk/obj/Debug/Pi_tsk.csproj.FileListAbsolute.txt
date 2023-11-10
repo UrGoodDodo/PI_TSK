@@ -1,0 +1,10 @@
+C:\Users\Кирилл\Desktop\PI_tsk\Pi_tsk\Pi_tsk\obj\Debug\Pi_tsk.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\PI_tsk\Pi_tsk\Pi_tsk\obj\Debug\Pi_tsk.Form1.resources
+C:\Users\Кирилл\Desktop\PI_tsk\Pi_tsk\Pi_tsk\obj\Debug\Pi_tsk.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\PI_tsk\Pi_tsk\Pi_tsk\obj\Debug\Pi_tsk.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\PI_tsk\Pi_tsk\Pi_tsk\obj\Debug\Pi_tsk.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\PI_tsk\Pi_tsk\Pi_tsk\bin\Debug\Pi_tsk.exe.config
+C:\Users\Кирилл\Desktop\PI_tsk\Pi_tsk\Pi_tsk\bin\Debug\Pi_tsk.exe
+C:\Users\Кирилл\Desktop\PI_tsk\Pi_tsk\Pi_tsk\bin\Debug\Pi_tsk.pdb
+C:\Users\Кирилл\Desktop\PI_tsk\Pi_tsk\Pi_tsk\obj\Debug\Pi_tsk.exe
+C:\Users\Кирилл\Desktop\PI_tsk\Pi_tsk\Pi_tsk\obj\Debug\Pi_tsk.pdb
